@@ -1,0 +1,28 @@
+.body{
+    width:600px;
+    text-align: center;
+    position:relative;
+    border-radius:10px;
+    margin:50px auto;
+}
+
+.image{
+    width:100%;
+    border-radius:10px;
+}
+
+.content{
+    position:absolute;
+    top:150px;
+    left:20px;
+    color:white;
+}
+
+.btn{
+    color:black;
+    background-color:white;
+    padding:10px 25px;
+    border-radius:20px;
+    border:none;
+    font-weight:545;
+}
