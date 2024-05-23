@@ -1,0 +1,77 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.company-name {
+  background-color: #7adf73;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+}
+.company-info {
+  color: rgb(4, 4, 4);
+  text-align: center;
+}
+.border-line {
+ border-style: groove;
+  margin-left: 11%;
+  width: 78%;
+  height: 1px;
+  background-color: rgb(11, 10, 10);
+}
+.meet {
+  text-align: center;
+
+
+}
+
+main {
+  padding: 20px;
+}
+
+.team {
+  margin-bottom: 20px;
+  border: 2px solid rgb(0, 0, 0);
+  padding: 50px;
+  
+}
+.t-name1{
+  border:2px;
+  background-color: #7adf73;
+  width: 30%;
+  margin-left: 35%;
+  border-radius: 5px;
+  margin-top: auto;
+  
+}
+
+.team h2 {
+  color: #333;
+  text-align: center;
+}
+
+.team-members {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  
+}
+
+.member {
+  text-align: center;
+  margin: 50px;
+}
+
+.member img {
+  width: 150px;
+  border-radius: 50%;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}
